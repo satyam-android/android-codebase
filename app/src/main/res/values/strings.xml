@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CedeBase</string>
+    <string name="progress_bar_title">Loading Please Wait..</string>
+</resources>
